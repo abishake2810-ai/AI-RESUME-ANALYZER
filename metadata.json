@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer – Intelligent Resume Screening and Career Assistant",
+  "description": "Intelligent AI-powered resume screening, skill extraction, ATS scoring, job description matching, resume improvement, and career counseling assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
